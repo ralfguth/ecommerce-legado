@@ -23,7 +23,7 @@ o maven criará o .war que deverá ser deployado no Wildfly
 
 ### Deploy no servidor WildFly
 
-Inicie o WildFly executando o script apropriado no diretório bin do WildFly:
+Inicie o servidor executando o script apropriado no diretório `bin/` do WildFly:
 
 ```bash
 ./standalone.sh
